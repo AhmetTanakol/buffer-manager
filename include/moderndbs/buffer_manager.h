@@ -5,7 +5,9 @@
 #include <cstdint>
 #include <exception>
 #include <vector>
-
+#include <mutex>
+#include <shared_mutex>
+#include <map>
 
 namespace moderndbs {
 
@@ -13,11 +15,53 @@ class BufferFrame {
 private:
     friend class BufferManager;
 
-    // TODO: add your implementation here
+    uint64_t pageID;
+    bool isDirty = false;
+    int counter = 1;
+    std::vector<uint64_t> frameVector;
+    bool hasExclusiveLock = false;
 
 public:
     /// Returns a pointer to this page's data.
     char* get_data();
+
+    BufferFrame(size_t page_id, bool is_dirty, uint64_t frame_size);
+
+    void setDirty(bool is_dirty) {
+        this->isDirty = is_dirty;
+    }
+
+    bool getDirty() {
+        return this->isDirty;
+    }
+
+    void setCounter() {
+        this->counter = 0;
+    }
+
+    int getCounter() {
+        return this->counter;
+    }
+
+    uint64_t getPageID() {
+        return this->pageID;
+    }
+
+    std::vector<uint64_t> getFrameVector() {
+        return this->frameVector;
+    }
+
+    void setFrameVector(std::vector<uint64_t > vec) {
+        this->frameVector = std::move(vec);
+    }
+
+    void setExclusiveLock(bool exclusive) {
+        this->hasExclusiveLock = exclusive;
+    }
+
+    bool getExclusiveLock() {
+        return this->hasExclusiveLock;
+    }
 };
 
 
@@ -32,7 +76,14 @@ public:
 
 class BufferManager {
 private:
-    // TODO: add your implementation here
+    std::vector<BufferFrame> fifo;
+    std::vector<BufferFrame> lru;
+    size_t pageSize;
+    size_t pageCount;
+    mutable std::shared_mutex vector_mutex;
+    mutable std::shared_mutex page_mutex;
+    std::map<uint64_t, int> fifoMap;
+    std::map<uint64_t, int> lruMap;
 
 public:
     /// Constructor.

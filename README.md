@@ -1,3 +1,7 @@
+Name: Tanakol, Ahmet
+
+Matriculation number: 03691681
+
 # Buffer Manager
 
 Implement a buffer manager that uses the 2Q replacement strategy. The
