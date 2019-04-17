@@ -1,0 +1,16 @@
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-build/CMakeFiles/install/local.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-build/CMakeFiles/install/strip.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-build/CMakeFiles/install.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-build/CMakeFiles/gmock.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-build/CMakeFiles/rebuild_cache.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-build/CMakeFiles/edit_cache.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-build/CMakeFiles/gmock_main.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-build/CMakeFiles/list_install_components.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-build/gtest/CMakeFiles/install/local.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-build/gtest/CMakeFiles/list_install_components.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-build/gtest/CMakeFiles/rebuild_cache.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-build/gtest/CMakeFiles/edit_cache.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-build/gtest/CMakeFiles/install/strip.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-build/gtest/CMakeFiles/install.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-build/gtest/CMakeFiles/gtest_main.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-build/gtest/CMakeFiles/gtest.dir

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/benchmark/src/benchmark_src/include/benchmark/benchmark.h
+stdint.h
+-
+cassert
+-
+cstddef
+-
+iosfwd
+-
+string
+-
+vector
+-
+map
+-
+set
+-
+type_traits
+-
+initializer_list
+-
+utility
+-
+intrin.h
+-
+
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/benchmark/src/benchmark_src/test/map_test.cc
+benchmark/benchmark.h
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/benchmark/src/benchmark_src/test/benchmark/benchmark.h
+cstdlib
+-
+map
+-
+

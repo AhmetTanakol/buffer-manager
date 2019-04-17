@@ -1,0 +1,13 @@
+# Target labels
+ benchmark_src
+# Source files and their labels
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/CMakeFiles/benchmark_src
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/CMakeFiles/benchmark_src.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/CMakeFiles/benchmark_src-complete.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/benchmark/src/benchmark_src-stamp/benchmark_src-install.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/benchmark/src/benchmark_src-stamp/benchmark_src-mkdir.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/benchmark/src/benchmark_src-stamp/benchmark_src-download.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/benchmark/src/benchmark_src-stamp/benchmark_src-update.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/benchmark/src/benchmark_src-stamp/benchmark_src-patch.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/benchmark/src/benchmark_src-stamp/benchmark_src-configure.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/benchmark/src/benchmark_src-stamp/benchmark_src-build.rule

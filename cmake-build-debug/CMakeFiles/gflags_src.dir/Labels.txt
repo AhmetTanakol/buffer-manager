@@ -1,0 +1,13 @@
+# Target labels
+ gflags_src
+# Source files and their labels
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/CMakeFiles/gflags_src
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/CMakeFiles/gflags_src.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/CMakeFiles/gflags_src-complete.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/src/gflags_src-stamp/gflags_src-install.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/src/gflags_src-stamp/gflags_src-mkdir.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/src/gflags_src-stamp/gflags_src-download.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/src/gflags_src-stamp/gflags_src-update.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/src/gflags_src-stamp/gflags_src-patch.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/src/gflags_src-stamp/gflags_src-configure.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/src/gflags_src-stamp/gflags_src-build.rule

@@ -1,0 +1,13 @@
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/lib/libgflags.a
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/lib/libgflags_nothreads.a
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/include/gflags/gflags.h
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/include/gflags/gflags_declare.h
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/include/gflags/gflags_completions.h
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/include/gflags/gflags_gflags.h
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/lib/cmake/gflags/gflags-config.cmake
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/lib/cmake/gflags/gflags-config-version.cmake
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/lib/cmake/gflags/gflags-targets.cmake
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/lib/cmake/gflags/gflags-targets-release.cmake
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/bin/gflags_completions.sh
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/lib/pkgconfig/gflags.pc
+/Users/ahmettanakol/.cmake/packages/gflags/d169c8200ddd641e7ad16f7f38fe188f

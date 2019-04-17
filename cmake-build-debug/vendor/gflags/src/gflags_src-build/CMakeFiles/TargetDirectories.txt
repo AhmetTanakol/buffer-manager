@@ -1,0 +1,10 @@
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/src/gflags_src-build/CMakeFiles/list_install_components.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/src/gflags_src-build/CMakeFiles/rebuild_cache.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/src/gflags_src-build/CMakeFiles/install/strip.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/src/gflags_src-build/CMakeFiles/install.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/src/gflags_src-build/CMakeFiles/gflags_nothreads.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/src/gflags_src-build/CMakeFiles/edit_cache.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/src/gflags_src-build/CMakeFiles/install/local.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/src/gflags_src-build/CMakeFiles/gflags_nothreads_static.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/src/gflags_src-build/CMakeFiles/gflags.dir
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/src/gflags_src-build/CMakeFiles/gflags_static.dir

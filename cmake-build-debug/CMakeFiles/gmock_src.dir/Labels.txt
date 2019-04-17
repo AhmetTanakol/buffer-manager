@@ -1,0 +1,13 @@
+# Target labels
+ gmock_src
+# Source files and their labels
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/CMakeFiles/gmock_src
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/CMakeFiles/gmock_src.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/CMakeFiles/gmock_src-complete.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-stamp/gmock_src-install.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-stamp/gmock_src-mkdir.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-stamp/gmock_src-download.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-stamp/gmock_src-update.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-stamp/gmock_src-patch.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-stamp/gmock_src-configure.rule
+/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/src/gmock_src-stamp/gmock_src-build.rule

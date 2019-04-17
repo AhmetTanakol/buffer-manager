@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/include -isystem /Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/gtest/include -isystem /Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/include -isystem /Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/gmock/include  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -Wall -Wextra -std=gnu++1z -o CMakeFiles/tester.dir/test/tester.cc.o -c /Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/test/tester.cc",
+  "file": "/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/test/tester.cc"
+},
+{
+  "directory": "/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/include -isystem /Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/gtest/include -isystem /Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/include -isystem /Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/gmock/include  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -Wall -Wextra -std=gnu++1z -o CMakeFiles/tester.dir/test/buffer_manager_test.cc.o -c /Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/test/buffer_manager_test.cc",
+  "file": "/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/test/buffer_manager_test.cc"
+},
+{
+  "directory": "/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/include -I/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/gtest/include -isystem /Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/include  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -Wall -Wextra -std=gnu++1z -o CMakeFiles/moderndbs.dir/src/buffer_manager.cc.o -c /Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/src/buffer_manager.cc",
+  "file": "/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/src/buffer_manager.cc"
+},
+{
+  "directory": "/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/include -I/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/gtest/include -isystem /Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/include  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -Wall -Wextra -std=gnu++1z -o CMakeFiles/moderndbs.dir/src/file/posix_file.cc.o -c /Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/src/file/posix_file.cc",
+  "file": "/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/src/file/posix_file.cc"
+}
+]

@@ -64,6 +64,7 @@ namespace moderndbs {
             uint64_t offSet = BufferManager::get_segment_page_id(page_id) * pageSize;
             file->read_block(offSet, pageSize, reinterpret_cast<char *>(values.data()));
         }
+        vector_mutex.lock();
         if (exclusive) {
             page_mutex.lock();
         } else {
@@ -75,8 +76,6 @@ namespace moderndbs {
         if (values.size() > 0) {
             newPage.setFrameVector(values);
         }
-
-        vector_mutex.lock();
         //std::cout << "Fix page: " << page_id << std::endl;
         if (fifo.size() == 0 && lru.size() == 0) {
             fifo.push_back(newPage);

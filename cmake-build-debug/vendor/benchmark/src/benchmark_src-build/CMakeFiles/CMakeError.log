@@ -1,0 +1,14 @@
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WD654 failed with the following output:
+Change Dir: /Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_99415/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_99415.dir/build.make CMakeFiles/cmTC_99415.dir/build
+Building CXX object CMakeFiles/cmTC_99415.dir/src.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -std=c++11  -Wall  -Wextra  -Wshadow  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -Wfloat-equal  -fstrict-aliasing  -Wzero-as-null-pointer-constant  -Wstrict-aliasing -DHAVE_CXX_FLAG_WD654  -wd654 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -wd654 -o CMakeFiles/cmTC_99415.dir/src.cxx.o -c /Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp/src.cxx
+clang: error: unknown argument: '-wd654'
+clang: error: unknown argument: '-wd654'
+make[4]: *** [CMakeFiles/cmTC_99415.dir/src.cxx.o] Error 1
+make[3]: *** [cmTC_99415/fast] Error 2
+
+Source file was:
+int main() { return 0; }

@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\vendor\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\vendor\;CMake Files\cmake-build-debug\vendor\benchmark\;CMake Files\cmake-build-debug\vendor\benchmark\tmp\;CMake Files\cmake-build-debug\vendor\gtm\;CMake Files\cmake-build-debug\vendor\gtm\tmp\;CMake Files\cmake-build-debug\vendor\gflags\;CMake Files\cmake-build-debug\vendor\gflags\tmp\;CMake Files\cmake\;CMake Files\include\;CMake Files\src\;CMake Files\tools\;CMake Files\test\;CMake Files\bench\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lint_tools">
+				<Option working_dir="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 lint_tools"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lint">
+				<Option working_dir="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 lint"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="googletest">
+				<Option working_dir="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 googletest"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock_src">
+				<Option working_dir="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 gmock_src"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gflags_src">
+				<Option working_dir="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 gflags_src"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tester">
+				<Option output="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/tester" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/include"/>
+					<Add directory="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/gtest/include"/>
+					<Add directory="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/include"/>
+					<Add directory="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/gmock/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 tester"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tester/fast">
+				<Option output="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/tester" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/include"/>
+					<Add directory="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/gtest/include"/>
+					<Add directory="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/include"/>
+					<Add directory="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/gmock/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 tester/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lint_test">
+				<Option working_dir="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 lint_test"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="moderndbs">
+				<Option output="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/libmoderndbs.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/include"/>
+					<Add directory="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/gtest/include"/>
+					<Add directory="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 moderndbs"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="moderndbs/fast">
+				<Option output="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/libmoderndbs.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/include"/>
+					<Add directory="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/gtest/include"/>
+					<Add directory="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 moderndbs/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_src">
+				<Option working_dir="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 gtest_src"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lint_src">
+				<Option working_dir="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 lint_src"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="benchmark_src">
+				<Option working_dir="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 benchmark_src"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/include/moderndbs/buffer_manager.h">
+			<Option target="moderndbs"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/include/moderndbs/file.h">
+			<Option target="moderndbs"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/src/buffer_manager.cc">
+			<Option target="moderndbs"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/src/file/posix_file.cc">
+			<Option target="moderndbs"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/test/buffer_manager_test.cc">
+			<Option target="tester"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/test/tester.cc">
+			<Option target="tester"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/vendor/benchmark.cmake">
+			<Option virtualFolder="CMake Files\vendor\"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/vendor/gflags.cmake">
+			<Option virtualFolder="CMake Files\vendor\"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/vendor/googletest.cmake">
+			<Option virtualFolder="CMake Files\vendor\"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/benchmark/tmp/benchmark_src-cfgcmd.txt.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\vendor\benchmark\tmp\"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/tmp/gmock_src-cfgcmd.txt.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\vendor\gtm\tmp\"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/tmp/googletest-cfgcmd.txt.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\vendor\gtm\tmp\"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gtm/tmp/gtest_src-cfgcmd.txt.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\vendor\gtm\tmp\"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake-build-debug/vendor/gflags/tmp/gflags_src-cfgcmd.txt.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\vendor\gflags\tmp\"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/cmake/clang-tidy.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/include/local.cmake">
+			<Option virtualFolder="CMake Files\include\"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/src/local.cmake">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/tools/local.cmake">
+			<Option virtualFolder="CMake Files\tools\"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/test/local.cmake">
+			<Option virtualFolder="CMake Files\test\"/>
+		</Unit>
+		<Unit filename="/Users/ahmettanakol/projects/moderndb/task-2-buffer-manager/bench/local.cmake">
+			<Option virtualFolder="CMake Files\bench\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
